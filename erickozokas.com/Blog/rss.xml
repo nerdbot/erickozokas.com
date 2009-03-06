@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.erickozokas.com/erickozokas.com/Blog/Blog.html</link>
+    <description>Stay tuned.  Check back often.  </description>
+    <generator>iWeb 2.0.4</generator>
+    <image>
+      <url>http://www.erickozokas.com/erickozokas.com/Blog/Blog_files/CIMG0235.jpg</url>
+      <title>Blog</title>
+      <link>http://www.erickozokas.com/erickozokas.com/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Announcing EasyPush!</title>
+      <link>http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/4_Announcing_EasyPush%21.html</link>
+      <guid isPermaLink="false">9a1f7b5a-83a5-404b-9707-6945128bffce</guid>
+      <pubDate>Wed, 4 Mar 2009 16:41:50 -0500</pubDate>
+      <description>EasyPush is an easy to use Ruby sftp script.  This script will compare all files in the local and remote directories based on modified time.  It will upload any new/modified files from the local to the remote directory using a secure ftp connection.  EasyPush is open source. The latest source code can be found on &lt;a href=&quot;http://github.com/nerdbot/easypush/tree/master&quot;&gt;GitHub&lt;/a&gt;.</description>
+    </item>
+    <item>
+      <title>Microphone Check!</title>
+      <link>http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/2_Microphone_Check%21.html</link>
+      <guid isPermaLink="false">6d248888-b04c-4946-95f4-4dfa29c94500</guid>
+      <pubDate>Mon, 2 Mar 2009 23:14:38 -0500</pubDate>
+      <description>&lt;a href=&quot;http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/2_Microphone_Check%21_files/badHairDay.jpg&quot;&gt;&lt;img src=&quot;http://www.erickozokas.com/erickozokas.com/Blog/Media/badHairDay_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:216px; height:288px;&quot;/&gt;&lt;/a&gt;This is only a test.  Let’s see if I can get this ball rolling.  </description>
+      <enclosure url="http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/2_Microphone_Check%21_files/badHairDay.jpg" length="116971" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

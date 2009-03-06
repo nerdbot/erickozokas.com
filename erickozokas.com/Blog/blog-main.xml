@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.erickozokas.com/erickozokas.com/Blog</link>
+    <description>Stay tuned.  Check back often.  </description>
+    <item>
+      <title>Announcing EasyPush!</title>
+      <link>http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/4_Announcing_EasyPush%21.html</link>
+      <guid isPermaLink="false">9a1f7b5a-83a5-404b-9707-6945128bffce</guid>
+      <pubDate>Wed, 4 Mar 2009 16:41:50 -0500</pubDate>
+      <description>EasyPush is an easy to use Ruby sftp script.  This script will compare all files in the local and remote directories based on modified time.  It will upload any new/modified files from the local to the remote directory using a secure ftp connection.  EasyPush is open source. The latest source code can be found on &lt;a href="http://github.com/nerdbot/easypush/tree/master"&gt;GitHub&lt;/a&gt;.</description>
+      <iweb:comment link="http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/4_Announcing_EasyPush%21.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Microphone Check!</title>
+      <link>http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/2_Microphone_Check%21.html</link>
+      <guid isPermaLink="false">6d248888-b04c-4946-95f4-4dfa29c94500</guid>
+      <pubDate>Mon, 2 Mar 2009 23:14:38 -0500</pubDate>
+      <description>This is only a test.  Let&#x2019;s see if I can get this ball rolling.  </description>
+      <iweb:image href="Media/badHairDay.jpg"></iweb:image>
+      <iweb:comment link="http://www.erickozokas.com/erickozokas.com/Blog/Entries/2009/3/2_Microphone_Check%21.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.erickozokas.com/erickozokas.com/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="2687B219-341D-4627-8218-2F61E89827F9">
+  <lastEdited clientType="local-build-20090305" date="2009-03-05 21:02:29 -0500"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Microphone Check!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, March 2, 2009&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;This is only a test.  Let&#x2019;s see if I can get this ball rolling.  &lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_Microphone_Check%21_files/shapeimage_1.jpg" left="0px" top="0px" width="651px" height="400px"/>
+</content>
